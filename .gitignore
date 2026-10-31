@@ -1,1 +1,3 @@
 .rafael/
+__pycache__/
+*.py[cod]
